@@ -7,9 +7,9 @@ package com.example.demo.Security.Service;
 import com.example.demo.Security.Entity.Rol;
 import com.example.demo.Security.Enums.RolNombre;
 import com.example.demo.Security.Repository.IRolRepository;
-import jakarta.transaction.Transactional;
+//import jakarta.transaction.Transactional;
 import java.util.Optional;
-//import javax.transaction.Transactional;
+import javax.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
