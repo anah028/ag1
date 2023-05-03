@@ -1,3 +1,4 @@
+C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Dto\dtoHys.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Dto\dtoExperiencia.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\AgApplication.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Security\Service\RolService.java
@@ -9,17 +10,21 @@ C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Security\Repo
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Interface\IPersonaService.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Security\Entity\Usuario.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Security\jwt\JwtEntryPoint.java
+C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Repository\Rhys.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Repository\RExperiencia.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Security\Controller\Mensaje.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Security\Entity\UsuarioPrincipal.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Entity\Educacion.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Controller\PersonaController.java
+C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Entity\hys.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Security\jwt\JwtProvider.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Security\Dto\NuevoUsuario.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Security\MainSecurity.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Security\Entity\Rol.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Service\ImpPersonaService.java
+C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Controller\Chys.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Security\Controller\AuthController.java
+C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Service\Shys.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Security\Enums\RolNombre.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Controller\CExperiencia.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Controller\CEducacion.java
