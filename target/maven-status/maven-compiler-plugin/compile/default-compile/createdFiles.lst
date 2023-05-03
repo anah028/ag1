@@ -12,9 +12,11 @@ com\example\demo\Security\Dto\NuevoUsuario.class
 com\example\demo\Controller\Chys.class
 com\example\demo\Repository\REducacion.class
 com\example\demo\Security\Controller\AuthController.class
+com\example\demo\Dto\dtoPersona.class
 com\example\demo\Security\Repository\IRolRepository.class
 com\example\demo\Service\ImpPersonaService.class
 com\example\demo\Security\MainSecurity.class
+.netbeans_automatic_build
 com\example\demo\Dto\dtoHys.class
 com\example\demo\Repository\RExperiencia.class
 com\example\demo\Security\Enums\RolNombre.class
