@@ -6,7 +6,6 @@ com\example\demo\Service\SExperiencia.class
 com\example\demo\Controller\CExperiencia.class
 com\example\demo\Controller\CEducacion.class
 com\example\demo\Security\Entity\Usuario.class
-com\example\demo\Interface\IPersonaService.class
 com\example\demo\Security\jwt\JwtProvider.class
 com\example\demo\Security\Dto\NuevoUsuario.class
 com\example\demo\Controller\Chys.class
@@ -16,7 +15,6 @@ com\example\demo\Dto\dtoPersona.class
 com\example\demo\Security\Repository\IRolRepository.class
 com\example\demo\Service\ImpPersonaService.class
 com\example\demo\Security\MainSecurity.class
-.netbeans_automatic_build
 com\example\demo\Dto\dtoHys.class
 com\example\demo\Repository\RExperiencia.class
 com\example\demo\Security\Enums\RolNombre.class
