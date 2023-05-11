@@ -23,21 +23,22 @@ import javax.validation.constraints.Size;
  */
 @Entity
 public class Persona {
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
-    
+
     @NotNull
-    @Size(min = 1, max= 50, message = "No cumple con los requisitos")
+    @Size(min = 1, max = 50, message = "No cumple con los requisitos")
     private String nombre;
     @NotNull
-    @Size(min = 1, max= 50, message = "No cumple con los requisitos")
+    @Size(min = 1, max = 50, message = "No cumple con los requisitos")
     private String apellido;
-    
+
     @NotNull
-    @Size(min = 1, max= 50, message = "No cumple con los requisitos")
+    @Size(min = 1, max = 150, message = "No cumple con los requisitos")
     private String descripcion;
-    
+
     @NotNull
     private String img;
 
@@ -91,7 +92,4 @@ public class Persona {
         this.img = img;
     }
 
-   
-    
-    
 }

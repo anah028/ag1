@@ -2,13 +2,16 @@ C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Dto\dtoHys.ja
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Dto\dtoPersona.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Dto\dtoExperiencia.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\AgApplication.java
+C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Controller\CProyectos.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Security\Service\RolService.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Repository\IPersonaRepository.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Security\jwt\JwtTokenFilter.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Security\Dto\JwtDto.java
+C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Entity\Proyectos.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Service\SExperiencia.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Security\Repository\IUsuarioRepository.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Security\Entity\Usuario.java
+C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Repository\RProyectos.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Security\jwt\JwtEntryPoint.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Repository\Rhys.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Repository\RExperiencia.java
@@ -18,6 +21,7 @@ C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Entity\Educac
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Controller\PersonaController.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Entity\hys.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Security\jwt\JwtProvider.java
+C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Dto\dtoProyectos.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Security\Dto\NuevoUsuario.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Security\MainSecurity.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Security\Entity\Rol.java
@@ -34,6 +38,7 @@ C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Entity\Experi
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Entity\Persona.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Repository\REducacion.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Security\Service\UserDetailsImpl.java
+C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Service\SProyectos.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Security\Repository\IRolRepository.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Service\SEducacion.java
 C:\Users\anilu\Downloads\este si\ag\src\main\java\com\example\demo\Security\Dto\LoginUsuario.java
